@@ -1,6 +1,6 @@
 {
   "schema": "ota-manifest-v1",
-  "version_code": 3,
+  "version_code": 4,
   "version_label": "v1.0.2",
   "firmware_url": "https://github.com/hoanv-synaptix/OTA/blob/cef3eb9fd4bf7fafac91a1e24be7e748cc616388/pwm_stm32f103cbt6_testboot.bin",
   "firmware_size": 15056,
