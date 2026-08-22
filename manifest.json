@@ -1,8 +1,8 @@
 {
     "schema":  "ota-manifest-v1",
-    "version_code":  34,
+    "version_code":  35,
     "version_label":  "v1.0.2",
     "firmware_url":  "https://raw.githubusercontent.com/hoanv-synaptix/OTA/refs/heads/main/PWM_stm32f103cbt6.bin",
-    "firmware_size":  52908,
-    "firmware_sha256":  "09fadbbabaa9ff92d8324f70400d869786ed8afa22760b3672471ab7c83cfc37"
+    "firmware_size":  53180,
+    "firmware_sha256":  "610c943b79152262e81044ad92e4e8393abfd2cb4edbe5c47af3a1c22208b311"
 }
